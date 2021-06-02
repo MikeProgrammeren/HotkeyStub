@@ -1,0 +1,11 @@
+\\dd1.ld.lan\dfs\Prof\Mraak\WinFldrs\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+\\dd1.ld.lan\dfs\Prof\Mraak\WinFldrs\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+\\dd1.ld.lan\dfs\Prof\Mraak\WinFldrs\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+\\dd1.ld.lan\dfs\Prof\Mraak\WinFldrs\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+\\dd1.ld.lan\dfs\Prof\Mraak\WinFldrs\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+\\dd1.ld.lan\dfs\Prof\Mraak\WinFldrs\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+\\dd1.ld.lan\dfs\Prof\Mraak\WinFldrs\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+\\dd1.ld.lan\dfs\Prof\Mraak\WinFldrs\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+\\dd1.ld.lan\dfs\Prof\Mraak\WinFldrs\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+\\dd1.ld.lan\dfs\Prof\Mraak\WinFldrs\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+\\dd1.ld.lan\dfs\Prof\Mraak\WinFldrs\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\PETT.Form1.resources
